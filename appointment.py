@@ -23,4 +23,5 @@ class Application:
                                                             self.right.pack(side=RIGHT)
 
                                                                     ~ labels for the window
-                                                                    
+                                                                            self.heading = Label(self.left, text="STEDAP Hospital Appointments", font=('arial 40 bold'), fg='black', bg='lightgreen')
+                                                                            
