@@ -33,4 +33,5 @@ for r in res:
                                                                                     self.heading.place(x=350, y=0)
 
                                                                                             ~ button to change patients
-                                                                                            
+                                                                                                    self.change = Button(master, text="Next Patient", width=25, height=2, bg='steelblue', command=self.func)
+                                                                                                    
