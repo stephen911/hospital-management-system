@@ -30,4 +30,5 @@ class Application:
                                                                                                                                                 ~ execute sql 
 
                                                                                                                                                         sql = "SELECT * FROM appointments WHERE name LIKE ?"
-                                                                                                                                                        
+                                                                                                                                                                self.res = c.execute(sql, (self.input,))
+                                                                                                                                                                
