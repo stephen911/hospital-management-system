@@ -50,4 +50,5 @@ class Application:
                                                                                                                                                                                                                                     self.phone.place(x=0, y=300)
 
                                                                                                                                                                                                                                             ~ Entries for all labels============================================================
-                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                    self.name_ent = Entry(self.left, width=30)
+                                                                                                                                                                                                                                                    
