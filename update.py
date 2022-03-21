@@ -20,4 +20,5 @@ class Application:
                                                                             ~ entry for  the name
                                                                                     self.namenet = Entry(master, width=30)
                                                                                             self.namenet.place(x=280, y=62)
+
                                                                                             
