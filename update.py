@@ -56,4 +56,5 @@ class Application:
 
                                                                                                                                                                                                                                                                                                                                                     self.uphone = Label(self.master, text="Phone Number", font=('arial 18 bold'))
                                                                                                                                                                                                                                                                                                                                                             self.uphone.place(x=0, y=340)
+
                                                                                                                                                                                                                                                                                                                                                             
