@@ -67,4 +67,5 @@ class Application:
 
                                                                                                                                                                                                                                                                                                                                         self.phone_ent = Entry(self.left, width=30)
                                                                                                                                                                                                                                                                                                                                                 self.phone_ent.place(x=250, y=300)
+
                                                                                                                                                                                                                                                                                                                                                 
