@@ -45,4 +45,5 @@ for r in res:
                                                                                                                                                         ~ function to speak the text and update the text
                                                                                                                                                             def func(self):
                                                                                                                                                                         self.n.config(text=str(number[self.x]))
-                                                                                                                                                                        
+                                                                                                                                                                                self.pname.config(text=str(patients[self.x]))
+                                                                                                                                                                                
