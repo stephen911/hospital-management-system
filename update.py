@@ -15,4 +15,5 @@ class Application:
 
                                                     ~ search criteria -->name 
                                                             self.name = Label(master, text="Enter Patient's Name", font=('arial 18 bold'))
-                                                            
+                                                                    self.name.place(x=0, y=60)
+                                                                    
