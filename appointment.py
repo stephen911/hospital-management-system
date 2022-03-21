@@ -30,4 +30,5 @@ class Application:
                                                                                                             self.name.place(x=0, y=100)
 
                                                                                                                     ~ age
-                                                                                                                    
+                                                                                                                            self.age = Label(self.left, text="Age", font=('arial 18 bold'), fg='black', bg='lightgreen')
+                                                                                                                            
