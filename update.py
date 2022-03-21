@@ -35,4 +35,5 @@ class Application:
                                                                                                                                                                                         self.name1 = self.row[1]
                                                                                                                                                                                                     self.age = self.row[2]
                                                                                                                                                                                                                 self.gender = self.row[3]
-                                                                                                                                                                                                                
+                                                                                                                                                                                                                            self.location = self.row[4]
+                                                                                                                                                                                                                            
