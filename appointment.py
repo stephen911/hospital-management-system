@@ -15,4 +15,5 @@ class Application:
         def __init__(self, master):
                     self.master = master
 
-                    
+                            ~ creating the frames in the master
+                            
