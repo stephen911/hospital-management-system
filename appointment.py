@@ -38,4 +38,5 @@ class Application:
                                                                                                                                                             self.gender.place(x=0, y=180)
 
                                                                                                                                                                     ~ location
-                                                                                                                                                                    
+                                                                                                                                                                            self.location = Label(self.left, text="Location", font=('arial 18 bold'), fg='black', bg='lightgreen')
+                                                                                                                                                                            
