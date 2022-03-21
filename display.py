@@ -25,4 +25,5 @@ for r in res:
                         class Application:
                                 def __init__(self, master):
                                             self.master = master
+
                                             
