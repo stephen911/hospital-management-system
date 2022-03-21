@@ -18,4 +18,5 @@ class Application:
                                                                     self.name.place(x=0, y=60)
 
                                                                             ~ entry for  the name
-                                                                            
+                                                                                    self.namenet = Entry(master, width=30)
+                                                                                    
