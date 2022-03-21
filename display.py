@@ -43,4 +43,5 @@ for r in res:
                                                                                                                                             self.pname = Label(master, text="", font=('arial 80 bold'))
                                                                                                                                                     self.pname.place(x=350, y=400)
                                                                                                                                                         ~ function to speak the text and update the text
-                                                                                                                                                        
+                                                                                                                                                            def func(self):
+                                                                                                                                                                
