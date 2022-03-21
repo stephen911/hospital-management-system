@@ -11,3 +11,5 @@ c = conn.cursor()
 ids = []
 
 ~ tkinter window
+class Application:
+    
