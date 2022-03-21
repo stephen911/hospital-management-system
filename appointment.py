@@ -7,3 +7,5 @@ conn = sqlite3.connect('database.db')
 ~ cursor to move around the databse
 c = conn.cursor()
 
+~ empty list to later append the ids from the database
+ids = []
