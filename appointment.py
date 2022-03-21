@@ -39,4 +39,5 @@ class Application:
 
                                                                                                                                                                     ~ location
                                                                                                                                                                             self.location = Label(self.left, text="Location", font=('arial 18 bold'), fg='black', bg='lightgreen')
-                                                                                                                                                                            
+                                                                                                                                                                                    self.location.place(x=0, y=220)
+                                                                                                                                                                                    
