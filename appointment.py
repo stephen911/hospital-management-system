@@ -52,4 +52,5 @@ class Application:
                                                                                                                                                                                                                                             ~ Entries for all labels============================================================
                                                                                                                                                                                                                                                     self.name_ent = Entry(self.left, width=30)
                                                                                                                                                                                                                                                             self.name_ent.place(x=250, y=100)
+
                                                                                                                                                                                                                                                             
