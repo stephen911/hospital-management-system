@@ -44,4 +44,5 @@ class Application:
 
                                                                                                                                                                                                                                                                                     self.uage = Label(self.master, text="Age", font=('arial 18 bold'))
                                                                                                                                                                                                                                                                                             self.uage.place(x=0, y=180)
+
                                                                                                                                                                                                                                                                                             
