@@ -8,3 +8,4 @@ import pyttsx3
 conn = sqlite3.connect('database.db')
 c = conn.cursor()
 
+~ empty lists to append later
