@@ -61,4 +61,5 @@ class Application:
 
                                                                                                                                                                                                                                                                                                         self.location_ent = Entry(self.left, width=30)
                                                                                                                                                                                                                                                                                                                 self.location_ent.place(x=250, y=220)
+
                                                                                                                                                                                                                                                                                                                 
