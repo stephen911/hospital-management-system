@@ -22,4 +22,7 @@ class Application:
                                                     self.right = Frame(master, width=400, height=720, bg='steelblue')
                                                             self.right.pack(side=RIGHT)
 
-                                                            
+                                                                    ~ labels for the window
+                                                                            self.heading = Label(self.left, text="STEDAP Hospital Appointments", font=('arial 40 bold'), fg='black', bg='lightgreen')
+                                                                                    self.heading.place(x=0, y=0)
+                                                                                    
