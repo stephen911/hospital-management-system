@@ -26,4 +26,5 @@ class Application:
                                                                             self.heading = Label(self.left, text="STEDAP Hospital Appointments", font=('arial 40 bold'), fg='black', bg='lightgreen')
                                                                                     self.heading.place(x=0, y=0)
                                                                                             ~ patients name
-                                                                                            
+                                                                                                    self.name = Label(self.left, text="Patient's Name", font=('arial 18 bold'), fg='black', bg='lightgreen')
+                                                                                                    
