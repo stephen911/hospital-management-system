@@ -22,4 +22,5 @@ class Application:
                                                                                             self.namenet.place(x=280, y=62)
 
                                                                                                     ~ search button
-                                                                                                    
+                                                                                                            self.search = Button(master, text="Search", width=12, height=1, bg='steelblue', command=self.search_db)
+                                                                                                            
