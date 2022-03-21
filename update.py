@@ -53,4 +53,5 @@ class Application:
 
                                                                                                                                                                                                                                                                                                                                     self.utime = Label(self.master, text="Appointment Time", font=('arial 18 bold'))
                                                                                                                                                                                                                                                                                                                                             self.utime.place(x=0, y=300)
+
                                                                                                                                                                                                                                                                                                                                             
