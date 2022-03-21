@@ -24,4 +24,5 @@ for r in res:
                         ~ window
                         class Application:
                                 def __init__(self, master):
-                                    
+                                            self.master = master
+                                            
