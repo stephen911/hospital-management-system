@@ -27,4 +27,5 @@ class Application:
                                                                                     self.heading.place(x=0, y=0)
                                                                                             ~ patients name
                                                                                                     self.name = Label(self.left, text="Patient's Name", font=('arial 18 bold'), fg='black', bg='lightgreen')
-                                                                                                    
+                                                                                                            self.name.place(x=0, y=100)
+                                                                                                            
