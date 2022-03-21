@@ -12,3 +12,4 @@ c = conn.cursor()
 number = []
 patients = []
 
+sql = "SELECT * FROM appointments"
