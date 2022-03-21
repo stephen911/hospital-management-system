@@ -32,4 +32,5 @@ for r in res:
                                                                             self.heading = Label(master, text="Appointments", font=('arial 60 bold'), fg='green')
                                                                                     self.heading.place(x=350, y=0)
 
-                                                                                    
+                                                                                            ~ button to change patients
+                                                                                            
