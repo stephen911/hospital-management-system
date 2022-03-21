@@ -17,4 +17,5 @@ class Application:
 
                             ~ creating the frames in the master
                                     self.left = Frame(master, width=800, height=720, bg='lightgreen')
-                                    
+                                            self.left.pack(side=LEFT)
+                                            
