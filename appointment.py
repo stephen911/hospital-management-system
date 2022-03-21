@@ -6,3 +6,4 @@ import tkinter.messagebox
 conn = sqlite3.connect('database.db')
 ~ cursor to move around the databse
 c = conn.cursor()
+
