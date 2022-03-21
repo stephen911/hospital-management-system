@@ -37,4 +37,5 @@ for r in res:
                                                                                                             self.change.place(x=500, y=600)
 
                                                                                                                     ~ empty text labels to later config
-                                                                                                                    
+                                                                                                                            self.n = Label(master, text="", font=('arial 200 bold'))
+                                                                                                                            
