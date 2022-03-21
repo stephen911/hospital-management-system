@@ -25,4 +25,5 @@ class Application:
                                                                     ~ labels for the window
                                                                             self.heading = Label(self.left, text="STEDAP Hospital Appointments", font=('arial 40 bold'), fg='black', bg='lightgreen')
                                                                                     self.heading.place(x=0, y=0)
-                                                                                    
+                                                                                            ~ patients name
+                                                                                            
