@@ -4,3 +4,5 @@ import pyttsx3
 
 
 
+~ connection to database
+conn = sqlite3.connect('database.db')
