@@ -44,4 +44,5 @@ for r in res:
                                                                                                                                                     self.pname.place(x=350, y=400)
                                                                                                                                                         ~ function to speak the text and update the text
                                                                                                                                                             def func(self):
-                                                                                                                                                                
+                                                                                                                                                                        self.n.config(text=str(number[self.x]))
+                                                                                                                                                                        
