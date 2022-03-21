@@ -23,4 +23,6 @@ class Application:
 
                                                                                                     ~ search button
                                                                                                             self.search = Button(master, text="Search", width=12, height=1, bg='steelblue', command=self.search_db)
-                                                                                                            
+                                                                                                                    self.search.place(x=350, y=102)
+                                                                                                                        ~ function to search
+                                                                                                                        
