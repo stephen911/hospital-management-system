@@ -19,4 +19,6 @@ for r in res:
             name = r[1]
                 number.append(ids)
                     patients.append(name)
-                    
+                        print(ids, name)
+
+                        
