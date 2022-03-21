@@ -28,4 +28,5 @@ class Application:
                                                                                                                             def search_db(self):
                                                                                                                                         self.input = self.namenet.get()
                                                                                                                                                 ~ execute sql 
+
                                                                                                                                                 
