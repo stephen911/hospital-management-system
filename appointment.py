@@ -19,4 +19,6 @@ class Application:
                                     self.left = Frame(master, width=800, height=720, bg='lightgreen')
                                             self.left.pack(side=LEFT)
 
-                                            
+                                                    self.right = Frame(master, width=400, height=720, bg='steelblue')
+                                                            self.right.pack(side=RIGHT)
+                                                            
