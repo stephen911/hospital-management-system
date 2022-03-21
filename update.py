@@ -32,4 +32,5 @@ class Application:
                                                                                                                                                         sql = "SELECT * FROM appointments WHERE name LIKE ?"
                                                                                                                                                                 self.res = c.execute(sql, (self.input,))
                                                                                                                                                                         for self.row in self.res:
-                                                                                                                                                                            
+                                                                                                                                                                                        self.name1 = self.row[1]
+                                                                                                                                                                                        
