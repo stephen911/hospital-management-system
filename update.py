@@ -7,4 +7,5 @@ conn = sqlite3.connect('database.db')
 c = conn.cursor()
 
 class Application:
-    
+        def __init__(self, master):
+            
