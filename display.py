@@ -21,4 +21,5 @@ for r in res:
                     patients.append(name)
                         print(ids, name)
 
+                        ~ window
                         
