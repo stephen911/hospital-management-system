@@ -64,4 +64,5 @@ class Application:
 
                                                                                                                                                                                                                                                                                                                         self.time_ent = Entry(self.left, width=30)
                                                                                                                                                                                                                                                                                                                                 self.time_ent.place(x=250, y=260)
+
                                                                                                                                                                                                                                                                                                                                 
