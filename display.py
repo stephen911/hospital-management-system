@@ -49,4 +49,5 @@ for r in res:
                                                                                                                                                                                         engine = pyttsx3.init()
                                                                                                                                                                                                 voices = engine.getProperty('voices')
                                                                                                                                                                                                         rate = engine.getProperty('rate')
-                                                                                                                                                                                                        
+                                                                                                                                                                                                                engine.setProperty('rate', rate-50)
+                                                                                                                                                                                                                
