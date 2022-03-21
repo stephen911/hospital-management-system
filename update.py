@@ -21,4 +21,5 @@ class Application:
                                                                                     self.namenet = Entry(master, width=30)
                                                                                             self.namenet.place(x=280, y=62)
 
-                                                                                            
+                                                                                                    ~ search button
+                                                                                                    
