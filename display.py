@@ -40,4 +40,5 @@ for r in res:
                                                                                                                             self.n = Label(master, text="", font=('arial 200 bold'))
                                                                                                                                     self.n.place(x=500, y=100)
 
-                                                                                                                                    
+                                                                                                                                            self.pname = Label(master, text="", font=('arial 80 bold'))
+                                                                                                                                            
