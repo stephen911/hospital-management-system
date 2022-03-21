@@ -50,4 +50,5 @@ class Application:
 
                                                                                                                                                                                                                                                                                                                     self.ulocation = Label(self.master, text="Location", font=('arial 18 bold'))
                                                                                                                                                                                                                                                                                                                             self.ulocation.place(x=0, y=260)
+
                                                                                                                                                                                                                                                                                                                             
