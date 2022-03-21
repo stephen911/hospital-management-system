@@ -11,4 +11,5 @@ class Application:
                     self.master = master
                             ~ heading label
                                     self.heading = Label(master, text="Update Appointments",  fg='steelblue', font=('arial 40 bold'))
-                                    
+                                            self.heading.place(x=150, y=0)
+                                            
