@@ -47,4 +47,5 @@ for r in res:
                                                                                                                                                                         self.n.config(text=str(number[self.x]))
                                                                                                                                                                                 self.pname.config(text=str(patients[self.x]))
                                                                                                                                                                                         engine = pyttsx3.init()
-                                                                                                                                                                                        
+                                                                                                                                                                                                voices = engine.getProperty('voices')
+                                                                                                                                                                                                
