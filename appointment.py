@@ -42,4 +42,5 @@ class Application:
                                                                                                                                                                                     self.location.place(x=0, y=220)
 
                                                                                                                                                                                             ~ appointment time
-                                                                                                                                                                                            
+                                                                                                                                                                                                    self.time = Label(self.left, text="Appointment Time", font=('arial 18 bold'), fg='black', bg='lightgreen')
+                                                                                                                                                                                                    
