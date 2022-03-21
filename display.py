@@ -26,4 +26,5 @@ for r in res:
                                 def __init__(self, master):
                                             self.master = master
 
-                                            
+                                                    self.x = 0
+                                                    
