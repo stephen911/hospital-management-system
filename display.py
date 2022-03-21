@@ -11,3 +11,4 @@ c = conn.cursor()
 ~ empty lists to append later
 number = []
 patients = []
+
