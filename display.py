@@ -29,4 +29,5 @@ for r in res:
                                                     self.x = 0
                                                             
                                                                     ~ heading
-                                                                    
+                                                                            self.heading = Label(master, text="Appointments", font=('arial 60 bold'), fg='green')
+                                                                            
