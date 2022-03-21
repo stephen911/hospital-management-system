@@ -22,4 +22,5 @@ for r in res:
                         print(ids, name)
 
                         ~ window
-                        
+                        class Application:
+                            
