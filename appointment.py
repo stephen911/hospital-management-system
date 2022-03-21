@@ -45,4 +45,5 @@ class Application:
                                                                                                                                                                                                     self.time = Label(self.left, text="Appointment Time", font=('arial 18 bold'), fg='black', bg='lightgreen')
                                                                                                                                                                                                             self.time.place(x=0, y=260)
 
-                                                                                                                                                                                                            
+                                                                                                                                                                                                                    ~ phone
+                                                                                                                                                                                                                    
