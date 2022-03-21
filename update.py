@@ -33,4 +33,5 @@ class Application:
                                                                                                                                                                 self.res = c.execute(sql, (self.input,))
                                                                                                                                                                         for self.row in self.res:
                                                                                                                                                                                         self.name1 = self.row[1]
-                                                                                                                                                                                        
+                                                                                                                                                                                                    self.age = self.row[2]
+                                                                                                                                                                                                    
