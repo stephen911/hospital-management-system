@@ -30,4 +30,5 @@ for r in res:
                                                             
                                                                     ~ heading
                                                                             self.heading = Label(master, text="Appointments", font=('arial 60 bold'), fg='green')
-                                                                            
+                                                                                    self.heading.place(x=350, y=0)
+                                                                                    
