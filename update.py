@@ -29,4 +29,5 @@ class Application:
                                                                                                                                         self.input = self.namenet.get()
                                                                                                                                                 ~ execute sql 
 
-                                                                                                                                                
+                                                                                                                                                        sql = "SELECT * FROM appointments WHERE name LIKE ?"
+                                                                                                                                                        
