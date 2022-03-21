@@ -34,4 +34,5 @@ class Application:
                                                                                                                                                                         for self.row in self.res:
                                                                                                                                                                                         self.name1 = self.row[1]
                                                                                                                                                                                                     self.age = self.row[2]
-                                                                                                                                                                                                    
+                                                                                                                                                                                                                self.gender = self.row[3]
+                                                                                                                                                                                                                
