@@ -15,4 +15,5 @@ patients = []
 sql = "SELECT * FROM appointments"
 res = c.execute(sql)
 for r in res:
-    
+        ids = r[0]
+        
