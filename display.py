@@ -48,4 +48,5 @@ for r in res:
                                                                                                                                                                                 self.pname.config(text=str(patients[self.x]))
                                                                                                                                                                                         engine = pyttsx3.init()
                                                                                                                                                                                                 voices = engine.getProperty('voices')
-                                                                                                                                                                                                
+                                                                                                                                                                                                        rate = engine.getProperty('rate')
+                                                                                                                                                                                                        
