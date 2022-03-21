@@ -47,4 +47,5 @@ class Application:
 
                                                                                                                                                                                                                     ~ phone
                                                                                                                                                                                                                             self.phone = Label(self.left, text="Phone Number", font=('arial 18 bold'), fg='black', bg='lightgreen')
-                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                    self.phone.place(x=0, y=300)
+                                                                                                                                                                                                                                    
