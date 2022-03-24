@@ -29,4 +29,5 @@
 <body>
         <!-- Loader Starts -->
             <div id="load_screen"> 
-                
+                        <div class="boxes">
+                            
