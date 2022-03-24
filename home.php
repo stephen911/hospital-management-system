@@ -208,4 +208,5 @@
 </li>
                     <li class="menu">
                                                 <a href="javascript:void(0);" id="charts" class="main-item dropdown-toggle">
-                                                    
+                                                                                <i class="las la-chart-pie"></i>
+                                                                                
