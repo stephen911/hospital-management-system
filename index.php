@@ -19,4 +19,5 @@
                                                                         <!-- Common Icon Ends -->
                                                                             <!-- Page Level Plugin/Style Starts -->
                                                                                 <link href="assets/css/loader.css" rel="stylesheet" type="text/css" />  
-                                                                                
+                                                                                    <link href="common-assets/plugins/apex/apexcharts.css" rel="stylesheet" type="text/css">
+                                                                                    
