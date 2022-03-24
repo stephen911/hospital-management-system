@@ -46,4 +46,5 @@
 </div>
     <!--  Loader Ends -->
         <!--  Main Container Starts  -->
-        
+            <div class="main-container" id="container">
+                
