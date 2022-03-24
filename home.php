@@ -110,3 +110,7 @@
                                                                                                                                                         <div class="user-img">
                                                                                                                                                                                                                     <img class="rounded-circle avatar-xs" src="common-assets/img/profile-10.jpg" alt="profile">
 </div>
+                                                    <div class="media-body">
+                                                                                                                <div class="">
+                                                                                                                                                                                <h6 class="text-dark font-13 mb-0 strong">Lara Smith</h6>
+                                                                                                                                                                                
