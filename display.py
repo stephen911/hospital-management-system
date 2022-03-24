@@ -171,6 +171,7 @@ import threading ~To allow for AI to think simultaneously while the GUI is color
 ~ 1. GamePosition - This class stores a chess position. A chess position constitutes several
 ~ features that specify the state of the game, such as the the player that has to play next,
 ~ castling rights of the players, number of irreversible moves played so far, the positions of
+~ pieces on the board, etc.
 )
 
 
