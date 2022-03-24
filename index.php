@@ -456,4 +456,6 @@
 </ul>
 </li>
                                 <li>
-                                    
+                                                                        <a data-toggle="collapse" href="index.html~authTypeThree" role="button" aria-expanded="false" aria-controls="collapseExample" class="dropdown-toggle">
+                                                                                                                    Type 3
+                                                                                                                    
