@@ -85,6 +85,7 @@
 ~ fairly quickly, as the board state is hashed.
 ~ 3. Opening Book - The opening book is again a dictionary that stores board
 ~ positions often seen in the beginning few moves in chess. Appropraite moves that
+~ can be played at such positions is stored in the dictionary. A random move is
 
 
 
