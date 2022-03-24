@@ -113,6 +113,8 @@
 ~ being good moves allows for earlier cut-offs to be made by alpha-beta pruning.
 ~ 2. Iterative Deepening: Instead of going directly to a given depth when searching,
 ~ the A.I. may evaluate the best move at depth 1, then depth 2, then depth 3, etc.
+~ until it reaches the final depth it needed to calculate at depth n. The reason for
+~ this is that it may be mathematically shown that this does not dignificantly increase
 
 
 
