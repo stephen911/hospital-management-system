@@ -78,4 +78,5 @@
                                                                                                                                                             <i class="las la-envelope"></i>
 </a>
                                 <div class="text-left">
-                                    
+                                                                        <h6>Mail</h6>
+                                                                        
