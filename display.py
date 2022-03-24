@@ -196,7 +196,8 @@ class GamePosition:
                                                                                                     ~these keys represents the number of times each of these positions was repeated in order for this
                                                                                                             ~position to be reached.
                                                                                                                     
-                                                                                                                    )
+                                                                                                                        def getboard(self):
+                                                                                                                            )
 
 
 
