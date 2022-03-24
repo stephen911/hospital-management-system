@@ -66,4 +66,6 @@
                                                                                     <div class="fixed-profile">
                                                                                                             <div class="premium-border">
                                                                                                                                         <img src="common-assets/img/profile-16.jpg" class="profile-avatar"/>
-                                                                                                                                        
+</div>
+                    <div class="mt-3">
+                        
