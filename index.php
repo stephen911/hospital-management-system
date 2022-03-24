@@ -142,4 +142,6 @@
 </li>
                         <li class="option-item dropdown notification-dropdown">
                                                         <a class="option-link-container" href="pages_notifications.html">
-                                                            
+                                                                                            <div class="option-link">
+                                                                                                                                    <i class="las la-bell"></i>
+                                                                                                                                    
