@@ -279,4 +279,5 @@
 </div>
 </div>
                     <div class="submenu" id="appsMenu">
-                        
+                                                <div class="submenu-info">
+                                                    
