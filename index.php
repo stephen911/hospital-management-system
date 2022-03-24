@@ -79,4 +79,5 @@
 </a>
                                 <div class="text-left">
                                                                         <h6>Mail</h6>
-                                                                        
+                                                                                                            <p>3 New Mails</p>
+</div>
