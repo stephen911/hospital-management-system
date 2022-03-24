@@ -172,4 +172,5 @@
                     <li class="menu">
                                                 <a href="javascript:void(0);" id="authPages" class="main-item dropdown-toggle">
                                                                                 <span class="new-notification"></span>
-                                                                                
+                                                                                                            <i class="las la-lock"></i>
+                                                                                                            
