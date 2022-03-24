@@ -32,7 +32,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                 ~ grab the dimensions of the frame and then construct a blob
                                                                     ~ from it
                                                                         global detections 
-                                                                        
+                                                                            (h, w) = frame.shape[:2]
+                                                                            
 
 
 
