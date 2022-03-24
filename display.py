@@ -189,7 +189,8 @@ class GamePosition:
                                             ~play, stores 1.
                                                     self.castling = castling_rights ~A list that contains castling rights for white and
                                                             ~black. Each castling right is a list that contains right to castle kingside and queenside.
-                                                            )
+                                                                    self.EnP = EnP_Target ~Stores the coordinates of a square that can be targeted by en passant capture.
+                                                                    )
 
 
 
