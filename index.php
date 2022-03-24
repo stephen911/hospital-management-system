@@ -372,4 +372,5 @@
 </a>
                                     <ul class="sub-submenu-list collapse" id="appsNotes"> 
                                                                                 <li>
-                                                                                    
+                                                                                                                                <a href="apps_notes.html"> List </a>
+                                                                                                                                
