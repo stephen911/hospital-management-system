@@ -174,4 +174,4 @@
                                                                                 <span class="new-notification"></span>
                                                                                                             <i class="las la-lock"></i>
                                                                                                                                         <span>Auth Pages</span>
-                                                                                                                                        
+</a>
