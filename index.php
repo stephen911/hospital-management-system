@@ -378,4 +378,5 @@
                                                                                         <a href="apps_notes_details.html"> Note Details </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="apps_notes_create.html"> Creat Note </a>
+                                                                                        
