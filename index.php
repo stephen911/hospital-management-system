@@ -227,4 +227,5 @@
                     <li class="menu">
                                                 <a href="datatables.html" class="dropdown-toggle">
                                                                                 <i class="las la-table"></i>
-                                                                                
+                                                                                                            <span>Data Tables</span>
+                                                                                                            
