@@ -49,4 +49,5 @@
             <div class="main-container" id="container">
                         <!-- Logo area (Larger Screen) Starts -->
                                 <div class="tl-logo-area d-none d-md-block">
-                                    
+                                                <div class="d-flex flex-row align-center justify-content-center logo-area">
+                                                    
