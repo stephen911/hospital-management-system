@@ -122,4 +122,11 @@
                                                                                                 <div class="media">
                                                                                                                                                         <div class="user-img">
                                                                                                                                                                                                                     <img class="rounded-circle avatar-xs" src="common-assets/img/profile-9.jpg" alt="profile">
-                                                                                                                                                                                                                    
+</div>
+                                                    <div class="media-body">
+                                                                                                                <div class="">
+                                                                                                                                                                                <h6 class="text-dark font-13 mb-0 strong">Victoria Williamson</h6>
+                                                                                                                                                                                                                                            <p class="m-0 mt-1 font-10 text-muted">Account need to be synced</p>
+</div>
+</div>
+</div>
