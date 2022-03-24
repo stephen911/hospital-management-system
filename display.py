@@ -211,7 +211,8 @@ class GamePosition:
                                                                                                                                                                                                                         def getEnP(self):
                                                                                                                                                                                                                                     return self.EnP
                                                                                                                                                                                                                                         def setEnP(self, EnP_Target):
-                                                                                                                                                                                                                                            )
+                                                                                                                                                                                                                                                    self.EnP = EnP_Target
+                                                                                                                                                                                                                                                    )
 
 
 
