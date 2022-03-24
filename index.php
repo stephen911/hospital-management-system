@@ -306,4 +306,4 @@
 </li>
                                 <li>
                                                                         <a href="apps_contacts.html"> Contacts </a>
-                                                                        
+</li>
