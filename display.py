@@ -173,6 +173,7 @@ import threading ~To allow for AI to think simultaneously while the GUI is color
 ~ castling rights of the players, number of irreversible moves played so far, the positions of
 ~ pieces on the board, etc.
 ~ 2. Shades - This is used for GUI. A shade is a transparent colored image that is displayed on
+~ a specific square of the chess board, in order to show various things to the user such as
 )
 
 
