@@ -126,4 +126,5 @@
                                                     <div class="media-body">
                                                                                                                 <div class="">
                                                                                                                                                                                 <h6 class="text-dark font-13 mb-0 strong">Victoria Williamson</h6>
-                                                                                                                                                                                
+                                                                                                                                                                                                                                            <p class="m-0 mt-1 font-10 text-muted">Account need to be synced</p>
+                                                                                                                                                                                                                                            
