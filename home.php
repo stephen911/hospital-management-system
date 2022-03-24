@@ -256,4 +256,5 @@
                     <div class="submenu" id="dashboardMenu">
                                                 <div class="submenu-info">
                                                                                 <div class="submenu-inner-info">
-                                                                                    
+                                                                                                                    <h5 class="mb-3">Dashboard</h5>
+                                                                                                                    
