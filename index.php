@@ -298,4 +298,6 @@
                                     <ul class="sub-submenu-list collapse" id="appsCompanies"> 
                                                                                 <li>
                                                                                                                                 <a href="apps_companies.html"> List </a>
-                                                                                                                                
+</li>
+                                        <li>
+                                            
