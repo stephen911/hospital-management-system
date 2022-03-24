@@ -406,4 +406,5 @@
 </div>
                     <div class="submenu" id="authPagesMenu">
                                                 <div class="submenu-info">
-                                                    
+                                                                                <div class="submenu-inner-info">
+                                                                                    
