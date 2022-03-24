@@ -42,3 +42,14 @@
             <div class="box">
                                 <div></div><div></div><div></div><div></div>
 </div>
+</div>
+</div>
+    <!--  Loader Ends -->
+        <!--  Main Container Starts  -->
+            <div class="main-container" id="container">
+                        <!-- Logo area (Larger Screen) Starts -->
+                                <div class="tl-logo-area d-none d-md-block">
+                                                <div class="d-flex flex-row align-center justify-content-center logo-area">
+                                                                    <a href="index.html" class="nav-link pr-0 pl-0">
+                                                                                            <img src="common-assets/img/logo.png" class="navbar-logo" alt="logo">
+                                                                                            
