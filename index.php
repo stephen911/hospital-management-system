@@ -412,4 +412,6 @@
 </div>
                             <ul class="submenu-list" data-parent-element="~dashboard"> 
                                                                 <li>
-                                                                    
+                                                                                                        <a data-toggle="collapse" href="index.html~authTypeOne" role="button" aria-expanded="false" aria-controls="collapseExample" class="dropdown-toggle">
+                                                                                                                                                Type 1 <i class="las la-angle-right sidemenu-right-icon"></i>
+                                                                                                                                                
