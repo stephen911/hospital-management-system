@@ -215,4 +215,5 @@
                     <li class="menu">
                                                 <a href="widgets.html" class="dropdown-toggle">
                                                                                 <i class="las la-desktop"></i>
-                                                                                
+                                                                                                            <span>Widgets</span>
+                                                                                                            
