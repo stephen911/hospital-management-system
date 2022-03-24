@@ -62,7 +62,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                                                                                                                                                                                             
                                                                                                                                                                                                                                                                                         ~ add the face and bounding boxes to their respective
                                                                                                                                                                                                                                                                                                     ~ lists
-                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                locs.append((startX, startY, endX, endY))
+                                                                                                                                                                                                                                                                                                                
 
 
 
