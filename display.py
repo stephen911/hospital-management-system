@@ -181,7 +181,8 @@ import threading ~To allow for AI to think simultaneously while the GUI is color
 ~ that a piece should display (pawn, queen, etc.) and the coordinate at which it should be
 ~ displayed on thee chess board.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-)
+class GamePosition:
+    )
 
 
 
