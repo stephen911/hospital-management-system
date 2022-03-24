@@ -27,4 +27,6 @@
                                                                                                         <!-- Page Level Plugin/Style Ends -->
 </head>
 <body>
-    
+        <!-- Loader Starts -->
+            <div id="load_screen"> 
+                
