@@ -290,4 +290,4 @@
 </li>
                                 <li>
                                                                         <a href="apps_chat.html"> Chat </a>
-                                                                        
+</li>
