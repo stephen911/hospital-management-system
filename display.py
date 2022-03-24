@@ -147,6 +147,7 @@
 
 
 ~Note about coordinates:
+~Normally, algebraic notation is used to specify a box on a chess board. In this
 )
 
 
