@@ -434,4 +434,6 @@
 </ul>
 </li>
                                 <li>
-                                    
+                                                                        <a data-toggle="collapse" href="index.html~authTypeTwo" role="button" aria-expanded="false" aria-controls="collapseExample" class="dropdown-toggle">
+                                                                                                                Type 2 <i class="las la-angle-right sidemenu-right-icon"></i>
+</a>
