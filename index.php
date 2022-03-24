@@ -130,3 +130,9 @@
 </div>
 </div>
 </div>
+</a>
+                                            <hr class="account-divider">
+                                                                                        <div class="text-center">
+                                                                                                                                            <a class="text-primary strong font-13" href="apps_mail.html">View All</a>
+</div>
+</div>
