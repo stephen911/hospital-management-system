@@ -146,4 +146,4 @@
                                                                                                                                     <i class="las la-bell"></i>
                                                                                                                                                                         <div class="blink">
                                                                                                                                                                                                                     <div class="circle"></div>
-                                                                                                                                                                                                                    
+</div>
