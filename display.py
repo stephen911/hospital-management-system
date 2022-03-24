@@ -51,6 +51,7 @@
 ~https://chessprogramming.wikispaces.com/
 
 ~ An online lecture that helped me understand alpha-beta pruning:
+~ Winston, P. [MIT OpenCourseWare]. (2010) 6. Search: Games, Minimax,
 
 
 
