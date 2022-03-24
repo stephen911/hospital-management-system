@@ -448,4 +448,5 @@
                                                                                         <a href="auth_lock_screen_2.html"> Lock Screen </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="auth_forget_password_2.html"> Forget Password </a>
+                                                                                        
