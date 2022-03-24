@@ -217,7 +217,8 @@ class GamePosition:
                                                                                                                                                                                                                                                                         def setHMC(self,HMC):
                                                                                                                                                                                                                                                                                     self.HMC = HMC
                                                                                                                                                                                                                                                                                         def checkRepition(self):
-                                                                                                                                                                                                                                                                                            )
+                                                                                                                                                                                                                                                                                                    ~Returns True if any of of the values in the history dictionary is greater than 3.
+                                                                                                                                                                                                                                                                                                    )
 
 
 
