@@ -345,4 +345,5 @@
 </ul>
 </li>
                                 <li>
-                                    
+                                                                        <a data-toggle="collapse" href="index.html~appsEmail" role="button" aria-expanded="false" aria-controls="collapseExample" class="dropdown-toggle">
+                                                                            
