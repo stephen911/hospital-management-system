@@ -55,7 +55,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                                                                                                                     box = detections[0, 0, i, 3:7] * np.array([w, h, w, h])
                                                                                                                                                                                                                 (startX, startY, endX, endY) = box.astype("int")
                                                                                                                                                                                                                 
-                                                                                                                                                                                                                
+                                                                                                                                                                                                                            ~ ensure the bounding boxes fall within the dimensions of
+                                                                                                                                                                                                                            
 
 
 
