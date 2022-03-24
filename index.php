@@ -368,4 +368,5 @@
 </li>
                                 <li>
                                                                         <a data-toggle="collapse" href="index.html~appsNotes" role="button" aria-expanded="false" aria-controls="collapseExample" class="dropdown-toggle">
-                                                                            
+                                                                                                                Notes <i class="las la-angle-right sidemenu-right-icon"></i>
+                                                                                                                
