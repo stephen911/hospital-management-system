@@ -18,4 +18,5 @@
                                                                     <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
                                                                         <!-- Common Icon Ends -->
                                                                             <!-- Page Level Plugin/Style Starts -->
-                                                                            
+                                                                                <link href="assets/css/loader.css" rel="stylesheet" type="text/css" />  
+                                                                                
