@@ -102,3 +102,5 @@
                                                                                                                                                                                 <h6 class="text-dark font-13 mb-0 strong">Jennifer Queen</h6>
                                                                                                                                                                                                                                             <p class="m-0 mt-1 font-10 text-muted">Permission Required</p>
 </div>
+</div>
+</div>
