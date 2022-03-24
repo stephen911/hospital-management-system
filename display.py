@@ -215,7 +215,8 @@ class GamePosition:
                                                                                                                                                                                                                                                         def getHMC(self):
                                                                                                                                                                                                                                                                     return self.HMC
                                                                                                                                                                                                                                                                         def setHMC(self,HMC):
-                                                                                                                                                                                                                                                                            )
+                                                                                                                                                                                                                                                                                    self.HMC = HMC
+                                                                                                                                                                                                                                                                                    )
 
 
 
