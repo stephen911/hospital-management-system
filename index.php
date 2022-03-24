@@ -161,4 +161,22 @@
                                                                     <a href="javascript:void(0);" id="dashboard" data-active="true" class="main-item dropdown-toggle">
                                                                                                     <i class="las la-home"></i>
                                                                                                                                 <span>Dashboard</span>
-                                                                                                                                
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="javascript:void(0);" id="apps" class="main-item dropdown-toggle">
+                                                                                <i class="lab la-medapps"></i>
+                                                                                                            <span>Apps</span>
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="javascript:void(0);" id="authPages" class="main-item dropdown-toggle">
+                                                                                <span class="new-notification"></span>
+                                                                                                            <i class="las la-lock"></i>
+                                                                                                                                        <span>Auth Pages</span>
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="javascript:void(0);" id="otherPages" class="main-item dropdown-toggle">
+                                                                                <i class="las la-file"></i>
+                                                                                
