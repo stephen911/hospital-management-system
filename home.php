@@ -301,4 +301,11 @@
 </li>
                                         <li>
                                                                                         <a href="apps_company_details.html"> Company Details </a>
-                                                                                        
+</li>
+</ul>
+</li>
+                                <li>
+                                                                        <a href="apps_contacts.html"> Contacts </a>
+</li>
+                                <li>
+                                    
