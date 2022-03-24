@@ -26,4 +26,5 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                         (h, w) = frame.shape[:2]
                                                                                                                 blob = cv2.dnn.blobFromImage(frame, 1.0, (300, 300),(104.0, 177.0, 123.0))
                                                                                                                 
-                                                                                                                "
+                                                                                                                        ~ pass the blob through the network and obtain the face detections
+                                                                                                                        "
