@@ -244,4 +244,5 @@
 </li>
                     <li class="menu">
                                                 <a href="Docs/index.html" class="dropdown-toggle">
-                                                    
+                                                                                <i class="las la-file-code"></i>
+                                                                                
