@@ -213,7 +213,8 @@ class GamePosition:
                                                                                                                                                                                                                                         def setEnP(self, EnP_Target):
                                                                                                                                                                                                                                                     self.EnP = EnP_Target
                                                                                                                                                                                                                                                         def getHMC(self):
-                                                                                                                                                                                                                                                            )
+                                                                                                                                                                                                                                                                    return self.HMC
+                                                                                                                                                                                                                                                                    )
 
 
 
