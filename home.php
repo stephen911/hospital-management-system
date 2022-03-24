@@ -197,4 +197,5 @@
                     <li class="menu">
                                                 <a href="javascript:void(0);" id="forms" class="main-item dropdown-toggle">
                                                                                 <i class="lab la-wpforms"></i>
-                                                                                
+                                                                                                            <span>Forms</span>
+                                                                                                            
