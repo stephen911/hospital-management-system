@@ -385,3 +385,6 @@
                                 <li>
                                                                         <a href="apps_social.html"> Social </a>
 </li>
+                                <li>
+                                                                        <a href="apps_taskList.html"> Task List </a>
+</li>
