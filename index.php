@@ -253,3 +253,5 @@
                                         <span class="sidebar-submenu-close" id="sidebarSubmenuClose">
                                                                     <i class="las la-times"></i>
 </span>
+                    <div class="submenu" id="dashboardMenu">
+                        
