@@ -407,4 +407,5 @@
                     <div class="submenu" id="authPagesMenu">
                                                 <div class="submenu-info">
                                                                                 <div class="submenu-inner-info">
-                                                                                    
+                                                                                                                    <h5 class="mb-3">Auth Pages</h5>
+                                                                                                                    
