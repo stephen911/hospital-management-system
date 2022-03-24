@@ -246,4 +246,4 @@
                                                 <a href="Docs/index.html" class="dropdown-toggle">
                                                                                 <i class="las la-file-code"></i>
                                                                                                             <span>Documentation</span>
-                                                                                                            
+</a>
