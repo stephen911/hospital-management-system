@@ -350,4 +350,5 @@
 </a>
                                     <ul class="sub-submenu-list collapse" id="appsEmail"> 
                                                                                 <li>
-                                                                                    
+                                                                                                                                <a href="apps_mail.html"> Inbox </a>
+</li>
