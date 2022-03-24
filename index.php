@@ -69,4 +69,5 @@
 </div>
                     <div class="mt-3">
                                                 <h6 class="text-white font-14 mb-1">Sara Smith</h6>
-                                                
+                                                                        <p class="text-white font-13 mb-0">Britannia</p>
+</div>
