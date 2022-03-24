@@ -154,6 +154,7 @@
 
 ~Import dependencies:
 import pygame ~Game library
+from pygame.locals import * ~For useful variables
 )
 
 
