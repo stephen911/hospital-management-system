@@ -337,4 +337,5 @@
                                                                                         <a href="apps_ecommerce_sellers.html"> Sellers </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="apps_ecommerce_cart.html"> Cart </a>
+                                                                                        
