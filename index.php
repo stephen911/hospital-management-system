@@ -442,4 +442,5 @@
                                                                                                                                 <a href="auth_login_2.html"> Login </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="auth_signup_2.html"> Register </a>
+                                                                                        
