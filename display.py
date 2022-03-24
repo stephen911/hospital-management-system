@@ -90,6 +90,7 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                                                                                                                                                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                     cap = cv2.VideoCapture(0)
                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                    
 
 
 
