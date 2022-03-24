@@ -43,6 +43,7 @@
 ~GUI inspired by:
 ~https://en.lichess.org/
 
+~Chess board image was taken from lichess website as well.
 
 
 
