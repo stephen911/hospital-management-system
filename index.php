@@ -26,3 +26,5 @@
                                                                                                     <link href="assets/css/elements/tooltip.css" rel="stylesheet" type="text/css" />
                                                                                                         <!-- Page Level Plugin/Style Ends -->
 </head>
+<body>
+    
