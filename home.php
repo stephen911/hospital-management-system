@@ -223,3 +223,4 @@
                                                                                 <i class="las la-border-all"></i>
                                                                                                             <span>Tables</span>
 </a>
+</li>
