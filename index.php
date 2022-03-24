@@ -43,3 +43,6 @@
                                 <div></div><div></div><div></div><div></div>
 </div>
 </div>
+</div>
+    <!--  Loader Ends -->
+    
