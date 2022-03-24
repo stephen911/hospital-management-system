@@ -50,6 +50,7 @@
 ~AI ideas from:
 ~https://chessprogramming.wikispaces.com/
 
+~ An online lecture that helped me understand alpha-beta pruning:
 
 
 
