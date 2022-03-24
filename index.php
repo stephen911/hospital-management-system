@@ -361,4 +361,5 @@
 </ul>
 </li>
                                 <li>
-                                    
+                                                                        <a href="apps_file_manager.html"> File Manager </a>
+                                                                        
