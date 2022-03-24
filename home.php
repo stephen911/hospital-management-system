@@ -296,4 +296,5 @@
                                                                                                                 Companies <i class="las la-angle-right sidemenu-right-icon"></i>
 </a>
                                     <ul class="sub-submenu-list collapse" id="appsCompanies"> 
-                                        
+                                                                                <li>
+                                                                                    
