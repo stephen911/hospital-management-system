@@ -165,4 +165,5 @@
 </li>
                     <li class="menu">
                                                 <a href="javascript:void(0);" id="apps" class="main-item dropdown-toggle">
-                                                    
+                                                                                <i class="lab la-medapps"></i>
+                                                                                
