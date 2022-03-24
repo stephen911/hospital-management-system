@@ -25,4 +25,4 @@
                                                                                                 <link href="common-assets/plugins/flatpickr/custom-flatpickr.css" rel="stylesheet" type="text/css">
                                                                                                     <link href="assets/css/elements/tooltip.css" rel="stylesheet" type="text/css" />
                                                                                                         <!-- Page Level Plugin/Style Ends -->
-                                                                                                        
+</head>
