@@ -334,4 +334,5 @@
                                                                                         <a href="apps_ecommerce_customers.html"> Customers </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="apps_ecommerce_sellers.html"> Sellers </a>
+                                                                                        
