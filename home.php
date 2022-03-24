@@ -217,3 +217,4 @@
                                                                                 <i class="las la-desktop"></i>
                                                                                                             <span>Widgets</span>
 </a>
+</li>
