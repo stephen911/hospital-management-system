@@ -207,7 +207,8 @@ class GamePosition:
                                                                                                                                                                                         def getCastleRights(self):
                                                                                                                                                                                                     return self.castling
                                                                                                                                                                                                         def setCastleRights(self,castling_rights):
-                                                                                                                                                                                                            )
+                                                                                                                                                                                                                    self.castling = castling_rights
+                                                                                                                                                                                                                    )
 
 
 
