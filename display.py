@@ -49,7 +49,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                                                     
                                                                                                                                             ~ filter out weak detections by ensuring the confidence is
                                                                                                                                                     ~ greater than the minimum confidence
-                                                                                                                                                    
+                                                                                                                                                            if confidence > threshold:
+                                                                                                                                                                
 
 
 
