@@ -87,4 +87,5 @@
                                                                                                         <div class="inner">
                                                                                                                                                     <div class="nav-drop-header">
                                                                                                                                                                                                     <span class="text-black font-12 strong">3 new mails</span>
-                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                <a class="text-muted font-12" href="index.html~">
+                                                                                                                                                                                                                                                    
