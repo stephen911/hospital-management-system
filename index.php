@@ -343,3 +343,4 @@
                                                                                         <a href="apps_ecommerce_checkout.html"> Checkout </a>
 </li>
 </ul>
+</li>
