@@ -85,6 +85,7 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                                                                                                                                                                                                                                                                                     faceNet = cv2.dnn.readNet(prototxtPath, weightsPath)
                                                                                                                                                                                                                                                                                                                                                                     
                                                                                                                                                                                                                                                                                                                                                                     
+                                                                                                                                                                                                                                                                                                                                                                    
 
 
 
