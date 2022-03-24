@@ -14,4 +14,5 @@
                                                     <link href="common-assets/plugins/perfect-scrollbar/perfect-scrollbar.css" rel="stylesheet" type="text/css" />
                                                         <link href="common-assets/plugins/highlight/styles/monokai-sublime.css" rel="stylesheet" type="text/css" />
                                                             <!-- Common Styles Ends -->
-                                                            
+                                                                <!-- Common Icon Starts -->
+                                                                
