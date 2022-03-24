@@ -121,4 +121,5 @@
                                             <a class="account-item marked-read">
                                                                                                 <div class="media">
                                                                                                                                                         <div class="user-img">
-                                                                                                                                                            
+                                                                                                                                                                                                                    <img class="rounded-circle avatar-xs" src="common-assets/img/profile-9.jpg" alt="profile">
+                                                                                                                                                                                                                    
