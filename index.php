@@ -179,4 +179,10 @@
                     <li class="menu">
                                                 <a href="javascript:void(0);" id="otherPages" class="main-item dropdown-toggle">
                                                                                 <i class="las la-file"></i>
+                                                                                                            <span>Other Pages</span>
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="javascript:void(0);" id="basicUI" class="main-item dropdown-toggle">
+                                                                                <i class="las la-drafting-compass"></i>
                                                                                 
