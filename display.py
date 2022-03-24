@@ -146,6 +146,7 @@
 ~ to attempt a win or a draw (or try its best to avoid a loss).
 
 
+~Note about coordinates:
 )
 
 
