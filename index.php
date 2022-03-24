@@ -281,4 +281,6 @@
                     <div class="submenu" id="appsMenu">
                                                 <div class="submenu-info">
                                                                                 <div class="submenu-inner-info">
-                                                                                    
+                                                                                                                    <h5 class="mb-3">Apps</h5>
+                                                                                                                                                    <p>Sed ut perspiciatis unde omnis iste.</p>
+                                                                                                                                                    
