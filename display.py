@@ -169,6 +169,7 @@ import threading ~To allow for AI to think simultaneously while the GUI is color
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~There are three classes used in this program:
 ~ 1. GamePosition - This class stores a chess position. A chess position constitutes several
+~ features that specify the state of the game, such as the the player that has to play next,
 )
 
 
