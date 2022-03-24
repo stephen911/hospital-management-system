@@ -322,4 +322,5 @@
                                                                                         <a href="apps_ecommerce_product_details.html"> Product Details </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="apps_ecommerce_add_product.html"> Add Product </a>
+                                                                                        
