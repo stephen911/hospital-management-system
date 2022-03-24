@@ -160,4 +160,5 @@
                                         <li class="menu active">
                                                                     <a href="javascript:void(0);" id="dashboard" data-active="true" class="main-item dropdown-toggle">
                                                                                                     <i class="las la-home"></i>
-                                                                                                    
+                                                                                                                                <span>Dashboard</span>
+                                                                                                                                
