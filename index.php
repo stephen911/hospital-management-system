@@ -314,4 +314,4 @@
                                     <ul class="sub-submenu-list collapse" id="appsEcommerce"> 
                                                                                 <li>
                                                                                                                                 <a href="apps_ecommerce.html"> Dashboard </a>
-                                                                                                                                
+</li>
