@@ -28,7 +28,8 @@ def create_dataset_folders(dataset_path,labels):
                             if not os.path.exists(dataset_folder):
                                             os.makedirs(dataset_folder)
                                                         
-                                                        
+                                                        def detect_face(frame, faceNet,threshold=0.5):
+                                                            
 
 
 
