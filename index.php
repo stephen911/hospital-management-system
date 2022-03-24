@@ -129,3 +129,4 @@
                                                                                                                                                                                                                                             <p class="m-0 mt-1 font-10 text-muted">Account need to be synced</p>
 </div>
 </div>
+</div>
