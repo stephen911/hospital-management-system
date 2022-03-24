@@ -211,3 +211,4 @@
                                                                                 <i class="las la-chart-pie"></i>
                                                                                                             <span>Charts</span>
 </a>
+</li>
