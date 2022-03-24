@@ -393,4 +393,9 @@
                                                                                                                 Tickets <i class="las la-angle-right sidemenu-right-icon"></i>
 </a>
                                     <ul class="sub-submenu-list collapse" id="appsTickets"> 
-                                        
+                                                                                <li>
+                                                                                                                                <a href="apps_tickets.html"> Ticket List </a>
+</li>
+                                        <li>
+                                                                                        <a href="apps_ticket_details.html"> Ticket Details </a>
+                                                                                        
