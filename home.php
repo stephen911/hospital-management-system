@@ -254,4 +254,5 @@
                                                                     <i class="las la-times"></i>
 </span>
                     <div class="submenu" id="dashboardMenu">
-                        
+                                                <div class="submenu-info">
+                                                    
