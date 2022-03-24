@@ -65,4 +65,14 @@
                                                                 <nav id="sidebar">
                                                                                     <div class="fixed-profile">
                                                                                                             <div class="premium-border">
-                                                                                                                
+                                                                                                                                        <img src="common-assets/img/profile-16.jpg" class="profile-avatar"/>
+</div>
+                    <div class="mt-3">
+                                                <h6 class="text-white font-14 mb-1">Sara Smith</h6>
+                                                                        <p class="text-white font-13 mb-0">Britannia</p>
+</div>
+                    <ul class="flex-row profile-option-container">
+                                                <li class="option-item dropdown message-dropdown">
+                                                                                <div class="option-link-container dropdown-toggle" id="messageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                                                                                    <a class="option-link dropdown-toggle">
+                                                                                                                        
