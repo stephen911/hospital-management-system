@@ -51,7 +51,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                                                                     ~ greater than the minimum confidence
                                                                                                                                                             if confidence > threshold:
                                                                                                                                                                             ~ compute the (x, y)-coordinates of the bounding box for
-                                                                                                                                                                            
+                                                                                                                                                                                        ~ the object
+                                                                                                                                                                                        
 
 
 
