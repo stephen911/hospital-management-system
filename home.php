@@ -250,4 +250,5 @@
 </li>
 </ul>
                 <div class="sidebar-submenu">
-                    
+                                        <span class="sidebar-submenu-close" id="sidebarSubmenuClose">
+                                            
