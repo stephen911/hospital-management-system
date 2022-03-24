@@ -443,4 +443,7 @@
 </li>
                                         <li>
                                                                                         <a href="auth_signup_2.html"> Register </a>
+</li>
+                                        <li>
+                                                                                        <a href="auth_lock_screen_2.html"> Lock Screen </a>
                                                                                         
