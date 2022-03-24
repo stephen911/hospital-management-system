@@ -150,4 +150,5 @@
 </div>
                                 <div class="text-left">
                                                                         <h6>Notifications</h6>
-                                                                        
+                                                                                                            <p>4 Unread</p>
+</div>
