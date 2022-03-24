@@ -367,4 +367,5 @@
                                                                         <a href="apps_invoice.html"> Invoice List </a>
 </li>
                                 <li>
-                                    
+                                                                        <a data-toggle="collapse" href="index.html~appsNotes" role="button" aria-expanded="false" aria-controls="collapseExample" class="dropdown-toggle">
+                                                                            
