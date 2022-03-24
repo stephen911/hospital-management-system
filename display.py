@@ -25,7 +25,9 @@ import time
 def create_dataset_folders(dataset_path,labels):
         for label in labels:
                     dataset_folder = dataset_path+"\\"+label
-                    
+                            if not os.path.exists(dataset_folder):
+                                            os.makedirs(dataset_folder)
+                                            
 
 
 
