@@ -93,4 +93,7 @@
 </div>
                                         <div class="nav-drop-body account-items pb-0">
                                                                                         <a class="account-item">
-                                                                                            
+                                                                                                                                            <div class="media">
+                                                                                                                                                                                                    <div class="user-img">
+                                                                                                                                                                                                                                                                <img class="rounded-circle avatar-xs" src="common-assets/img/profile-11.jpg" alt="profile">
+                                                                                                                                                                                                                                                                
