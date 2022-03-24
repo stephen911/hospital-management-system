@@ -192,4 +192,5 @@
                                                 <a href="javascript:void(0);" id="uiElements" class="main-item dropdown-toggle">
                                                                                 <i class="lab la-elementor"></i>
                                                                                                             <span>UI Elements</span>
-                                                                                                            
+</a>
+</li>
