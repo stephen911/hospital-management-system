@@ -465,4 +465,5 @@
                                                                                                                                 <a href="auth_login_3.html"> Login </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="auth_signup_3.html"> Register </a>
+</li>
