@@ -216,7 +216,8 @@ class GamePosition:
                                                                                                                                                                                                                                                                     return self.HMC
                                                                                                                                                                                                                                                                         def setHMC(self,HMC):
                                                                                                                                                                                                                                                                                     self.HMC = HMC
-                                                                                                                                                                                                                                                                                    )
+                                                                                                                                                                                                                                                                                        def checkRepition(self):
+                                                                                                                                                                                                                                                                                            )
 
 
 
