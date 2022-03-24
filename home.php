@@ -262,4 +262,7 @@
                             <ul class="submenu-list"> 
                                                                 <li class="active">
                                                                                                         <a href="index.html"> Dashboard 1 </a>
-                                                                                                        
+</li>
+                                <li>
+                                                                        <a href="index-2.html"> Dashboard 2 </a>
+                                                                        
