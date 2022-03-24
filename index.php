@@ -132,4 +132,5 @@
 </div>
 </a>
                                             <hr class="account-divider">
-                                            
+                                                                                        <div class="text-center">
+                                                                                            
