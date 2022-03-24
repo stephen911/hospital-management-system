@@ -44,7 +44,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                         locs = []
                                                                                                             ~ loop over the detections
                                                                                                                 for i in range(0, detections.shape[2]):
-                                                                                                                    
+                                                                                                                            ~ extract the confidence (i.e., probability) associated with
+                                                                                                                            
 
 
 
