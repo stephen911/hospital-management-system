@@ -217,3 +217,9 @@
                                                                                 <i class="las la-desktop"></i>
                                                                                                             <span>Widgets</span>
 </a>
+</li>
+                    <li class="menu">
+                                                <a href="tables.html" class="dropdown-toggle">
+                                                                                <i class="las la-border-all"></i>
+                                                                                                            <span>Tables</span>
+</a>
