@@ -158,4 +158,5 @@
 </div>
                 <ul class="list-unstyled menu-categories" id="accordionExample">
                                         <li class="menu active">
-                                            
+                                                                    <a href="javascript:void(0);" id="dashboard" data-active="true" class="main-item dropdown-toggle">
+                                                                        
