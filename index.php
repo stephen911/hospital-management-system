@@ -234,4 +234,4 @@
                                                 <a href="javascript:void(0);" id="starterKit" class="main-item dropdown-toggle">
                                                                                 <i class="las la-copy"></i>
                                                                                                             <span>Starter Kit</span>
-                                                                                                            
+</a>
