@@ -185,4 +185,35 @@
                     <li class="menu">
                                                 <a href="javascript:void(0);" id="basicUI" class="main-item dropdown-toggle">
                                                                                 <i class="las la-drafting-compass"></i>
-                                                                                
+                                                                                                            <span>Basic UI</span>
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="javascript:void(0);" id="uiElements" class="main-item dropdown-toggle">
+                                                                                <i class="lab la-elementor"></i>
+                                                                                                            <span>UI Elements</span>
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="javascript:void(0);" id="forms" class="main-item dropdown-toggle">
+                                                                                <i class="lab la-wpforms"></i>
+                                                                                                            <span>Forms</span>
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="javascript:void(0);" id="maps" class="main-item dropdown-toggle">
+                                                                                <i class="las la-globe-americas"></i>
+                                                                                                            <span>Maps</span>
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="javascript:void(0);" id="charts" class="main-item dropdown-toggle">
+                                                                                <i class="las la-chart-pie"></i>
+                                                                                                            <span>Charts</span>
+</a>
+</li>
+                    <li class="menu">
+                                                <a href="widgets.html" class="dropdown-toggle">
+                                                                                <i class="las la-desktop"></i>
+                                                                                                            <span>Widgets</span>
+</a>
