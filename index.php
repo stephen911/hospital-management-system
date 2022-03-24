@@ -76,4 +76,4 @@
                                                                                 <div class="option-link-container dropdown-toggle" id="messageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                                                                                                     <a class="option-link dropdown-toggle">
                                                                                                                                                             <i class="las la-envelope"></i>
-                                                                                                                                                            
+</a>
