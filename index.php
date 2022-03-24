@@ -73,4 +73,5 @@
 </div>
                     <ul class="flex-row profile-option-container">
                                                 <li class="option-item dropdown message-dropdown">
-                                                    
+                                                                                <div class="option-link-container dropdown-toggle" id="messageDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                                                                    
