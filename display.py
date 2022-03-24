@@ -187,7 +187,8 @@ class GamePosition:
                             ~function to see an example of such a representation.
                                     self.player = player ~Stores the side to move. If white to play, equals 0. If black to
                                             ~play, stores 1.
-                                            )
+                                                    self.castling = castling_rights ~A list that contains castling rights for white and
+                                                    )
 
 
 
