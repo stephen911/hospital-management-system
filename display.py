@@ -57,7 +57,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                                                                                                                                 
                                                                                                                                                                                                                             ~ ensure the bounding boxes fall within the dimensions of
                                                                                                                                                                                                                                         ~ the frame
-                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                    (startX, startY) = (max(0, startX), max(0, startY))
+                                                                                                                                                                                                                                                    
 
 
 
