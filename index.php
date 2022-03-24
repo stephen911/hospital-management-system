@@ -20,4 +20,6 @@
                                                                             <!-- Page Level Plugin/Style Starts -->
                                                                                 <link href="assets/css/loader.css" rel="stylesheet" type="text/css" />  
                                                                                     <link href="common-assets/plugins/apex/apexcharts.css" rel="stylesheet" type="text/css">
-                                                                                    
+                                                                                        <link href="assets/css/dashboard/dashboard_1.css" rel="stylesheet" type="text/css" />
+                                                                                            <link href="common-assets/plugins/flatpickr/flatpickr.css" rel="stylesheet" type="text/css">
+                                                                                            
