@@ -62,4 +62,5 @@
                                 <div class="rightbar-overlay"></div>
                                         <!--  Sidebar Starts  -->
                                                 <div class="sidebar-wrapper sidebar-theme">
-                                                    
+                                                                <nav id="sidebar">
+                                                                    
