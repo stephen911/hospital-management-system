@@ -109,4 +109,4 @@
                                                                                                 <div class="media">
                                                                                                                                                         <div class="user-img">
                                                                                                                                                                                                                     <img class="rounded-circle avatar-xs" src="common-assets/img/profile-10.jpg" alt="profile">
-                                                                                                                                                                                                                    
+</div>
