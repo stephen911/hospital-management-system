@@ -59,4 +59,6 @@
         <!-- Logo area (Larger Screen) Ends -->
                 <div class="overlay"></div>
                         <div class="search-overlay"></div>
-                        
+                                <div class="rightbar-overlay"></div>
+                                        <!--  Sidebar Starts  -->
+                                        
