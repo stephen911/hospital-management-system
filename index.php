@@ -458,4 +458,5 @@
                                 <li>
                                                                         <a data-toggle="collapse" href="index.html~authTypeThree" role="button" aria-expanded="false" aria-controls="collapseExample" class="dropdown-toggle">
                                                                                                                     Type 3
-                                                                                                                    
+                                                                                                                                                            <span class="menu-badge badge-danger">New</span>
+</a>
