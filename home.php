@@ -185,4 +185,5 @@
                     <li class="menu">
                                                 <a href="javascript:void(0);" id="basicUI" class="main-item dropdown-toggle">
                                                                                 <i class="las la-drafting-compass"></i>
-                                                                                
+                                                                                                            <span>Basic UI</span>
+                                                                                                            
