@@ -83,4 +83,6 @@
 </div>
 </div>
                             <div class="dropdown-menu position-absolute md-container" aria-labelledby="messageDropdown">
-                                
+                                                                <div class="nav-drop is-notification-dropdown">
+                                                                                                        <div class="inner">
+                                                                                                            
