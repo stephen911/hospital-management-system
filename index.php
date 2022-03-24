@@ -114,4 +114,5 @@
                                                                                                                 <div class="">
                                                                                                                                                                                 <h6 class="text-dark font-13 mb-0 strong">Lara Smith</h6>
                                                                                                                                                                                                                                             <p class="m-0 mt-1 font-10 text-muted">Invoice needed</p>
-                                                                                                                                                                                                                                            
+</div>
+</div>
