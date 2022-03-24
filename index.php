@@ -354,4 +354,4 @@
 </li>
                                         <li>
                                                                                         <a href="apps_mail_details.html"> Email Details </a>
-                                                                                        
+</li>
