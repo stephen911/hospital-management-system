@@ -255,4 +255,5 @@
 </span>
                     <div class="submenu" id="dashboardMenu">
                                                 <div class="submenu-info">
-                                                    
+                                                                                <div class="submenu-inner-info">
+                                                                                    
