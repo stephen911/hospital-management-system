@@ -90,3 +90,7 @@
                                                                                                                                                                                                                                                 <a class="text-muted font-12" href="index.html~">
                                                                                                                                                                                                                                                                                                     Mark all read
 </a>
+</div>
+                                        <div class="nav-drop-body account-items pb-0">
+                                                                                        <a class="account-item">
+                                                                                            
