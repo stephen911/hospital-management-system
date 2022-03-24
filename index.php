@@ -220,4 +220,5 @@
 </li>
                     <li class="menu">
                                                 <a href="tables.html" class="dropdown-toggle">
-                                                    
+                                                                                <i class="las la-border-all"></i>
+                                                                                
