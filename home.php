@@ -258,4 +258,4 @@
                                                                                 <div class="submenu-inner-info">
                                                                                                                     <h5 class="mb-3">Dashboard</h5>
                                                                                                                                                     <p>Lorem ipsum dolor sit sed ametctetur elit.</p>
-                                                                                                                                                    
+</div>
