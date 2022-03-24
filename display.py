@@ -201,7 +201,8 @@ class GamePosition:
                                                                                                                                         def setboard(self,board):
                                                                                                                                                     self.board = board
                                                                                                                                                         def getplayer(self):
-                                                                                                                                                            )
+                                                                                                                                                                    return self.player
+                                                                                                                                                                    )
 
 
 
