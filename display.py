@@ -142,6 +142,7 @@
 ~ attempt checkmate against a lone king, it would be unlikely for it to succeed. This is
 ~ because such checkmates, despite being simple, require a large number of combination of
 ~ moves to occur, the depth of which my AI would not be able to see. So endgame table allows
+~ it to know (for a very large number of endgame positions) the best move to play in order
 )
 
 
