@@ -417,4 +417,5 @@
 </a>
                                     <ul class="sub-submenu-list collapse" id="authTypeOne"> 
                                                                                 <li>
-                                                                                    
+                                                                                                                                <a href="auth_login_1.html"> Login </a>
+                                                                                                                                
