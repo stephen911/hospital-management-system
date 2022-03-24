@@ -159,6 +159,7 @@ import copy ~Library used to make exact copies of lists.
 import pickle ~Library used to store dictionaries in a text file and read them from text files.
 import random ~Used for making random selections
 from collections import defaultdict ~Used for giving dictionary values default data types.
+from collections import Counter ~For counting elements in a list effieciently.
 )
 
 
