@@ -29,7 +29,8 @@ def create_dataset_folders(dataset_path,labels):
                                             os.makedirs(dataset_folder)
                                                         
                                                         def detect_face(frame, faceNet,threshold=0.5):
-                                                            
+                                                                ~ grab the dimensions of the frame and then construct a blob
+                                                                
 
 
 
