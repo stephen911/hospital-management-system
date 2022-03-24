@@ -340,4 +340,5 @@
                                                                                         <a href="apps_ecommerce_cart.html"> Cart </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="apps_ecommerce_checkout.html"> Checkout </a>
+                                                                                        
