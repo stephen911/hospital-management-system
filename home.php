@@ -295,3 +295,5 @@
                                                                         <a data-toggle="collapse" href="index.html~appsCompanies" role="button" aria-expanded="false" aria-controls="collapseExample" class="dropdown-toggle">
                                                                                                                 Companies <i class="las la-angle-right sidemenu-right-icon"></i>
 </a>
+                                    <ul class="sub-submenu-list collapse" id="appsCompanies"> 
+                                        
