@@ -15,4 +15,6 @@
                                                         <link href="common-assets/plugins/highlight/styles/monokai-sublime.css" rel="stylesheet" type="text/css" />
                                                             <!-- Common Styles Ends -->
                                                                 <!-- Common Icon Starts -->
-                                                                
+                                                                    <link rel="stylesheet" href="https://maxst.icons8.com/vue-static/landings/line-awesome/line-awesome/1.3.0/css/line-awesome.min.css">
+                                                                        <!-- Common Icon Ends -->
+                                                                        
