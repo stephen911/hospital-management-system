@@ -33,7 +33,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                     ~ from it
                                                                         global detections 
                                                                             (h, w) = frame.shape[:2]
-                                                                            
+                                                                                blob = cv2.dnn.blobFromImage(frame, 1.0, (300, 300),(104.0, 177.0, 123.0))
+                                                                                
 
 
 
