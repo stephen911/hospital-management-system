@@ -43,7 +43,8 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                     ~ and the list of predictions from our face mask network
                                                                                                         locs = []
                                                                                                             ~ loop over the detections
-                                                                                                            
+                                                                                                                for i in range(0, detections.shape[2]):
+                                                                                                                    
 
 
 
