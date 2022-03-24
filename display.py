@@ -197,7 +197,8 @@ class GamePosition:
                                                                                                             ~position to be reached.
                                                                                                                     
                                                                                                                         def getboard(self):
-                                                                                                                            )
+                                                                                                                                    return self.board
+                                                                                                                                    )
 
 
 
