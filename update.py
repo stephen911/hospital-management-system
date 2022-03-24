@@ -32,4 +32,5 @@ def create_dataset_folders(dataset_path,labels):
                                                                                                                                         
                                                                                                                                                 ~ initialize our list of faces, their corresponding locations,
                                                                                                                                                         ~ and the list of predictions from our face mask network
-                                                                                                                                                        "
+                                                                                                                                                                locs = []
+                                                                                                                                                                "
