@@ -136,3 +136,10 @@
                                                                                                                                             <a class="text-primary strong font-13" href="apps_mail.html">View All</a>
 </div>
 </div>
+</div>
+</div>
+</div>
+</li>
+                        <li class="option-item dropdown notification-dropdown">
+                                                        <a class="option-link-container" href="pages_notifications.html">
+                                                            
