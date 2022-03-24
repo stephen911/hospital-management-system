@@ -168,3 +168,4 @@
                                                                                 <i class="lab la-medapps"></i>
                                                                                                             <span>Apps</span>
 </a>
+</li>
