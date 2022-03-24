@@ -86,4 +86,5 @@
                                                                 <div class="nav-drop is-notification-dropdown">
                                                                                                         <div class="inner">
                                                                                                                                                     <div class="nav-drop-header">
-                                                                                                                                                        
+                                                                                                                                                                                                    <span class="text-black font-12 strong">3 new mails</span>
+                                                                                                                                                                                                    
