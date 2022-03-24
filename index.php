@@ -327,3 +327,6 @@
                                         <li>
                                                                                         <a href="apps_ecommerce_orders.html"> Orders </a>
 </li>
+                                        <li>
+                                                                                        <a href="apps_ecommerce_order_details.html"> Order Details </a>
+                                                                                        
