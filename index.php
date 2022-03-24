@@ -222,4 +222,5 @@
                                                 <a href="tables.html" class="dropdown-toggle">
                                                                                 <i class="las la-border-all"></i>
                                                                                                             <span>Tables</span>
-                                                                                                            
+</a>
+</li>
