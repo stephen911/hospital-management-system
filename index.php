@@ -125,4 +125,5 @@
 </div>
                                                     <div class="media-body">
                                                                                                                 <div class="">
-                                                                                                                    
+                                                                                                                                                                                <h6 class="text-dark font-13 mb-0 strong">Victoria Williamson</h6>
+                                                                                                                                                                                
