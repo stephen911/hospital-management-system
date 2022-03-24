@@ -316,4 +316,5 @@
                                                                                                                                 <a href="apps_ecommerce.html"> Dashboard </a>
 </li>
                                         <li>
-                                            
+                                                                                        <a href="apps_ecommerce_products.html"> Products </a>
+</li>
