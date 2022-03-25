@@ -64,4 +64,5 @@
                                                 <div class="sidebar-wrapper sidebar-theme">
                                                                 <nav id="sidebar">
                                                                                     <div class="fixed-profile">
-                                                                                        
+                                                                                                            <div class="premium-border">
+                                                                                                                
