@@ -53,3 +53,5 @@
                                                                     <a href="index.html" class="nav-link pr-0 pl-0">
                                                                                             <img src="common-assets/img/logo.png" class="navbar-logo" alt="logo">
 </a>
+                <a href="index.html" class="nav-link d-none d-md-block"> Neptune </a>
+</div>
